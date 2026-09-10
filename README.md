@@ -706,10 +706,3 @@ Practical consequences:
 
 ---
 
-## License
-
-No `LICENSE` file is present in this repository yet. Until one is added, the
-work is under exclusive copyright by default — no redistribution or derivative
-rights are granted, which is worth resolving before the code is shared or
-vendored. The `cppgo` toolchain is licensed separately in
-[its own repository](https://github.com/ekyboi/cppgo).
